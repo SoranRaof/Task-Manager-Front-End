@@ -1,32 +1,3 @@
 {
-  "tasks": [
-    {
-      "id": "1",
-      "text": "buy milk"
-    },
-    {
-      "id": "2",
-      "text": "help my friend"
-    },
-    {
-      "id": "3",
-      "text": "go to gym"
-    },
-    {
-      "id": "4",
-      "text": "go to market"
-    },
-    {
-      "id": "5",
-      "text": "go for a walk"
-    },
-    {
-      "id": "6",
-      "text": "drink water"
-    },
-    {
-      "id": "025006a7-e1ce-4d9d-b74e-7d4e72dfed28",
-      "text": "walk dog"
-    }
-  ]
+  "tasks": []
 }

@@ -26,7 +26,7 @@ const AddTask = () => {
     <div>
       <button
         onClick={() => setModalOpen(true)}
-        className="btn btn-primary w-full border-none text-white"
+        className="btn btn-primary w-full border-none text-white hover:scale-110 ease-in duration-300"
       >
         Add New Task <AiOutlinePlus className="ml-2" size={18} />
       </button>
@@ -43,9 +43,9 @@ const AddTask = () => {
             />
             <button
               type="submit"
-              className="btn border-none bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white"
+              className="btn border-none bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white hover:scale-110 ease-in duration-300"
             >
-              Submit
+              Add
             </button>
           </div>
         </form>
